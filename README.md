@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, everyone
+
+A Daniel, a software developer always learning new skill and improving current one.
+Am proficient in Python, JavaScript, Java and Go to write secure and scalable apps.
+
 
 <!--
 **kbgro/kbgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
